@@ -1,0 +1,50 @@
+[14:30:21] [Paper Plugin Remapper Thread - 1/INFO]: [ReobfServer] Remapping server...
+[14:30:31] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:30:31] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[14:30:31] [ServerMain/INFO]: Found new data pack paper, loading it automatically
+[14:30:33] [ServerMain/INFO]: No existing world data, creating new world
+[14:30:36] [ServerMain/INFO]: Loaded 1175 recipes
+[14:30:36] [ServerMain/INFO]: Loaded 1276 advancements
+[14:30:37] [Server thread/INFO]: Starting minecraft server version 1.20.6
+[14:30:37] [Server thread/WARN]: ****************************
+[14:30:37] [Server thread/WARN]: YOU ARE RUNNING THIS SERVER AS AN ADMINISTRATIVE OR ROOT USER. THIS IS NOT ADVISED.
+[14:30:37] [Server thread/WARN]: YOU ARE OPENING YOURSELF UP TO POTENTIAL RISKS WHEN DOING THIS.
+[14:30:37] [Server thread/WARN]: FOR MORE INFORMATION, SEE https://madelinemiller.dev/blog/root-minecraft-server/
+[14:30:37] [Server thread/WARN]: ****************************
+[14:30:37] [Server thread/INFO]: Loading properties
+[14:30:37] [Server thread/INFO]: This server is running Paper version 1.20.6-148-ver/1.20.6@20f5165 (2024-07-02T15:37:33Z) (Implementing API version 1.20.6-R0.1-SNAPSHOT)
+[14:30:37] [Paper Plugin Remapper Thread - 1/INFO]: [ReobfServer] Done remapping server in 15995ms.
+[14:30:39] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:30:39] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:30:39] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[14:30:39] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[14:30:40] [Server thread/INFO]: Default game type: SURVIVAL
+[14:30:40] [Server thread/INFO]: Generating keypair
+[14:30:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:30:40] [Server thread/INFO]: Using epoll channel type
+[14:30:40] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[14:30:40] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[14:30:40] [Server thread/INFO]: Preparing level "world"
+[14:30:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:31:08] [Server thread/INFO]: Time elapsed: 11795 ms
+[14:31:08] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[14:31:12] [Server thread/INFO]: Time elapsed: 3155 ms
+[14:31:12] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[14:31:12] [Server thread/INFO]: Time elapsed: 750 ms
+[14:31:12] [Server thread/INFO]: Running delayed init tasks
+[14:31:12] [Server thread/INFO]: Done (35.276s)! For help, type "help"
+[14:31:12] [Server thread/INFO]: *************************************************************************************
+[14:31:12] [Server thread/INFO]: This is the first time you're starting this server.
+[14:31:12] [Server thread/INFO]: It's recommended you read our 'Getting Started' documentation for guidance.
+[14:31:12] [Server thread/INFO]: View this and more helpful information here: https://docs.papermc.io/paper/next-steps
+[14:31:12] [Server thread/INFO]: *************************************************************************************
+[14:31:12] [Server thread/INFO]: Timings Reset
+[14:31:15] [Server thread/INFO]: Stopping server
+[14:31:15] [Server thread/INFO]: Saving players
+[14:31:15] [Server thread/INFO]: Saving worlds
+[14:31:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14:31:15] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[14:31:15] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[14:31:15] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
